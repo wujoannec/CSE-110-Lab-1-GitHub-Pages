@@ -3,9 +3,9 @@
 
 [Sus link](pics/pic1.jpg)
 
-[Click me and see where you go](#the end)
+[Click me and see where you go](#fin)
 
-![](pics/pic2.jpg){ width=50% }
+![](pics/pic2.jpg)
 
 
 I am a programmer who finds programming really hard and I have to spend way more time on my peers to accomplish the same tasks. **That makes me _sad_**
@@ -31,7 +31,7 @@ Here are some foods I'm willing to eat
 
 ~~[Linkedin](https://www.linkedin.com/in/wujoannec/)~~
 
-# the end
+# fin
 ```
 cout << "are we there yet"
 ```
